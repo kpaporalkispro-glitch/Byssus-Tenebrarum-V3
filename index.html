@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Accueil · Byssus Tenebrarum</title>
+<meta name="description" content="Bijoux artisanaux en micro-macramé, créations personnalisées et boutique en ligne.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="topbar">
+  <span>✦ Micro-macramé artisanal</span>
+  <span>◇ Pierres naturelles</span>
+  <span>✋ Créations sur-mesure</span>
+  <span class="grow"></span>
+  <a href="guide-images.html">Guide photos</a>
+</div>
+
+<header class="header">
+  <div class="brand-row">
+    <button class="nav-toggle" id="navToggle" aria-label="Ouvrir le menu">☰</button>
+    <a class="logo-wrap" href="index.html" aria-label="Accueil Byssus Tenebrarum">
+      <img src="assets/logo/byssus-tenebrarum-logo.png" alt="Byssus Tenebrarum">
+    </a>
+    <a href="panier.html" class="mobile-cart" aria-label="Panier">Panier <b id="cartCountMobile">0</b></a>
+  </div>
+  <nav id="mainNav">
+    <a href="index.html">Accueil</a>
+    <a href="boutique.html">Boutique</a>
+    <a href="creation.html" class="highlight">Créer mon bijou</a>
+    <a href="pierres.html">Pierres</a>
+    <a href="apropos.html">À propos</a>
+    <a href="contact.html">Contact</a>
+    <a href="panier.html" class="cart-pill">Panier <b id="cartCount">0</b></a>
+  </nav>
+</header>
+
+
+<main>
+<section class="hero hero-v3">
+  <div class="hero-copy">
+    <span class="kicker">BYSSUS TENEBRARUM</span>
+    <h1>Des bijoux qui habillent<br><em>le corps et l’histoire.</em></h1>
+    <p>Micro-macramé artisanal, pierres naturelles, parures de corps et créations sur-mesure dans un univers gothique, mystique et sensuel.</p>
+    <div class="cta-row">
+      <a class="btn primary" href="boutique.html">Explorer la boutique</a>
+      <a class="btn secondary" href="creation.html">Créer mon bijou</a>
+    </div>
+    <div class="hero-chips">
+      <a href="boutique.html?cat=colliers">Colliers</a>
+      <a href="boutique.html?cat=manchettes">Manchettes</a>
+      <a href="boutique.html?cat=chaines-taille">Chaînes de taille</a>
+      <a href="boutique.html?cat=boucles-oreilles">Boucles</a>
+      <a href="boutique.html?cat=ensembles-couple">Couple</a>
+      <a href="boutique.html?cat=bijoux-corps">Corps</a>
+    </div>
+  </div>
+  <div class="hero-visual hero-slideshow">
+    <div class="hero-frame">
+      <img id="heroSlide" src="assets/images/products/bijoux-corps/bijoux-corps-01.png" alt="Bijou de corps">
+      <div class="hero-overlay">
+        <span id="heroLabel">BIJOUX DE CORPS</span>
+        <a id="heroLink" href="boutique.html?cat=bijoux-corps">Voir cette collection →</a>
+      </div>
+      <div class="hero-dots" id="heroDots"></div>
+    </div>
+  </div>
+</section>
+
+<section class="universe-strip">
+  <div class="universe-copy">
+    <span class="kicker">7 UNIVERS</span>
+    <h2>Une boutique, plusieurs façons d’habiller le corps.</h2>
+    <p>Faites glisser, survolez, découvrez. Chaque catégorie possède sa propre silhouette et son propre langage.</p>
+  </div>
+  <div id="universeRail" class="universe-rail"></div>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <div><span class="kicker">CATÉGORIES</span><h2>Choisissez votre territoire</h2></div>
+    <a href="boutique.html">Toute la boutique →</a>
+  </div>
+  <div id="homeCategories" class="category-showcase"></div>
+</section>
+
+<section class="mood-switcher section">
+  <div class="section-head">
+    <div><span class="kicker">STYLES</span><h2>Un bijou, plusieurs atmosphères</h2></div>
+  </div>
+  <div class="style-tabs" id="styleTabs">
+    <button class="active" data-style="Mystique">Mystique</button>
+    <button data-style="Gothique">Gothique</button>
+    <button data-style="Romantique">Romantique sombre</button>
+    <button data-style="Égyptien">Égyptien</button>
+    <button data-style="Minimal">Minimal</button>
+  </div>
+  <div id="styleGallery" class="style-gallery"></div>
+</section>
+
+<section class="section">
+  <div class="section-head"><div><span class="kicker">SÉLECTION</span><h2>Créations à découvrir</h2></div></div>
+  <div id="featuredProducts" class="product-grid interactive-grid"></div>
+</section>
+
+<section class="experience-grid">
+  <a href="creation.html" class="experience-card custom-card">
+    <span class="kicker">SUR-MESURE</span>
+    <h2>Construisez votre pièce en 10 étapes</h2>
+    <p>Pierre, fil, style, métal, intention, mesures et finitions.</p>
+    <span class="arrow">→</span>
+  </a>
+  <a href="pierres.html" class="experience-card stone-card">
+    <span class="kicker">PIERRES</span>
+    <h2>Commencer par la matière</h2>
+    <p>Améthyste, labradorite, onyx, quartz rose…</p>
+    <span class="arrow">→</span>
+  </a>
+</section>
+</main>
+
+
+<footer>
+  <div class="footer-brand">
+    <img src="assets/logo/byssus-tenebrarum-logo.png" alt="">
+    <p>Bijoux et parures artisanales en micro-macramé.</p>
+  </div>
+  <div><h4>Boutique</h4><a href="boutique.html">Toutes les créations</a><a href="creation.html">Sur-mesure</a><a href="pierres.html">Pierres</a></div>
+  <div><h4>Informations</h4><a href="apropos.html">À propos</a><a href="contact.html">Contact</a><a href="guide-images.html">Guide photos</a></div>
+</footer>
+<div class="copyright">© 2026 Byssus Tenebrarum · Prototype e-commerce GitHub Pages</div>
+
+<script src="js/app.js"></script>
+<script src="js/cart.js"></script>
+<script src="js/home.js"></script><script src="js/home-v3.js"></script>
+</body>
+</html>

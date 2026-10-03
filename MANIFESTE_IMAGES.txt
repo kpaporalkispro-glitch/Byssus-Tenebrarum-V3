@@ -1,0 +1,83 @@
+[colliers]
+colliers-01.png  <-  collier_gothique_en_macramé_et_labradorite.png  |  Collier Noctis  |  Labradorite
+colliers-02.png  <-  collier_macramé_à_améthyste_violette.png  |  Collier Astarté  |  Améthyste
+colliers-03.png  <-  collier_macramé_gothique_à_pierre_de_lune.png  |  Collier Selene  |  Pierre de lune
+colliers-04.png  <-  collier_gothique_en_quartz_rose.png  |  Collier Rosamorta  |  Quartz rose
+colliers-05.png  <-  collier_gothique_en_macramé_noir_et_bronze.png  |  Collier Umbra  |  Bronze
+colliers-06.png  <-  collier_gothique_en_dentelle_et_grenat.png  |  Collier Vesper  |  Grenat
+colliers-07.png  <-  collier_macramé_gothique_en_bronze_et_onyx.png  |  Collier Obscura  |  Onyx
+colliers-08.png  <-  collier_macramé_en_labradorite_irisée.png  |  Collier Eclipse  |  Labradorite
+colliers-09.png  <-  collier_macramé_améthyste_en_clair_obscur.png  |  Collier Nyx  |  Améthyste
+colliers-10.png  <-  collier_macramé_noir_et_bronze_mystique.png  |  Collier Arcanum  |  Bronze
+
+[manchettes]
+manchettes-01.png  <-  portrait_gothique_au_bracelet_d_améthyste.png  |  Manchette Astrale  |  Améthyste
+manchettes-02.png  <-  bracelet_gothique_à_la_lueur_des_bougies.png  |  Manchette Veillée  |  Onyx
+manchettes-03.png  <-  bracelet_macramé_au_cabochon_ambré.png  |  Manchette Ambre Noire  |  Cabochon ambré
+manchettes-04.png  <-  bracelet_macramé_gothique_au_clair_de_lune.png  |  Manchette Luna  |  Pierre de lune
+manchettes-05.png  <-  bracelets_macramé_aux_pierres_violettes_et_noires.png  |  Bracelets Dualis  |  Pierres violettes
+manchettes-06.png  <-  bracelet_gothique_sous_lumière_de_bougie.png  |  Manchette Candela  |  Quartz fumé
+manchettes-07.png  <-  portrait_gothique_au_bracelet_macramé_ornémenté.png  |  Manchette Ornement  |  Onyx
+manchettes-08.png  <-  bracelet_macramé_gothique_à_la_lueur_des_bougies.png  |  Manchette Minuit  |  Améthyste
+manchettes-09.png  <-  élégance_gothique_à_la_lumière_des_bougies.png  |  Manchette Velours  |  Grenat
+manchettes-10.png  <-  portrait_gothique_aux_bijoux_victoriens.png  |  Manchette Victoria  |  Grenat
+
+[chaines-taille]
+chaines-taille-01.png  <-  chaîne_de_taille_égyptienne_au_clair_de_lune.png  |  Chaîne Isis  |  Pierre de lune
+chaines-taille-02.png  <-  chaîne_de_taille_gothique_en_macramé.png  |  Chaîne Ombeline  |  Onyx
+chaines-taille-03.png  <-  bijou_de_taille_améthyste_gothique.png  |  Chaîne Lilith  |  Améthyste
+chaines-taille-04.png  <-  chaîne_de_taille_gothique_à_la_bougie.png  |  Chaîne Nocturne  |  Onyx
+chaines-taille-05.png  <-  chaîne_de_taille_gothique_au_clair_de_lune.png  |  Chaîne Selkis  |  Pierre de lune
+chaines-taille-06.png  <-  ceinture_gothique_en_macramé_noir.png  |  Ceinture Tenebris  |  Onyx
+chaines-taille-07.png  <-  ceinture_gothique_en_macramé_lunaire.png  |  Ceinture Lunaris  |  Pierre de lune
+chaines-taille-08.png  <-  ceinture_gothique_en_œil_de_tigre.png  |  Ceinture Solaris  |  Œil de tigre
+chaines-taille-09.png  <-  ceinture_macramé_gothique_aux_reflets_violets.png  |  Chaîne Violeta  |  Améthyste
+chaines-taille-10.png  <-  ceinture_gothique_aux_améthystes_candélabres.png  |  Chaîne Candelis  |  Améthyste
+
+[parures-buste]
+parures-buste-01.png  <-  corset_gothique_et_chaîne_mystique_à_la_bougie.png  |  Parure Vestalis  |  Quartz fumé
+parures-buste-02.png  <-  corset_gothique_et_chaîne_d_améthyste.png  |  Parure Ametra  |  Améthyste
+parures-buste-03.png  <-  corset_gothique_et_chaîne_macramé_baroque.png  |  Parure Baroque  |  Onyx
+parures-buste-04.png  <-  parure_gothique_au_clair_de_lune.png  |  Parure Lunae  |  Pierre de lune
+parures-buste-05.png  <-  portrait_gothique_au_corset_de_dentelle.png  |  Parure Dentelle Noire  |  Grenat
+parures-buste-06.png  <-  bijou_macramé_gothique_au_cabochon_irisé.png  |  Parure Iris  |  Labradorite
+parures-buste-07.png  <-  bijou_macramé_gothique_à_la_lueur_des_bougies.png  |  Parure Candela  |  Améthyste
+parures-buste-08.png  <-  bijoux_gothiques_en_lumière_de_bougie.png  |  Parure Sombre Éclat  |  Onyx
+parures-buste-09.png  <-  bijoux_gothiques_sous_les_arches_jumelles.png  |  Parure Arches Jumelles  |  Obsidienne
+parures-buste-10.png  <-  portrait_gothique_au_bijou_grenat_伊人.png  |  Parure Rouge Nuit  |  Grenat
+
+[boucles-oreilles]
+boucles-oreilles-01.png  <-  boucles_d_oreilles_améthyste_en_macramé.png  |  Boucles Althéa  |  Améthyste
+boucles-oreilles-02.png  <-  portrait_gothique_aux_boucles_en_labradorite.png  |  Boucles Irisées  |  Labradorite
+boucles-oreilles-03.png  <-  portrait_gothique_aux_boucles_roses.png  |  Boucles Roseline  |  Quartz rose
+boucles-oreilles-04.png  <-  portrait_gothique_aux_boucles_en_onyx.png  |  Boucles Obscures  |  Onyx
+boucles-oreilles-05.png  <-  portrait_gothique_aux_boucles_baroques.png  |  Boucles Baroques  |  Grenat
+boucles-oreilles-06.png  <-  portrait_gothique_aux_boucles_d_onyx.png  |  Boucles Minerva  |  Onyx
+boucles-oreilles-07.png  <-  portrait_gothique_aux_boucles_macramé.png  |  Boucles Tressées  |  Améthyste
+boucles-oreilles-08.png  <-  portrait_gothique_aux_boucles_d_améthyste.png  |  Boucles Violetta  |  Améthyste
+boucles-oreilles-09.png  <-  portrait_gothique_aux_croissants_lunaires.png  |  Boucles Croissant de Lune  |  Pierre de lune
+boucles-oreilles-10.png  <-  portrait_gothique_aux_bougies_et_grenats.png  |  Boucles Grenat Noir  |  Grenat
+
+[ensembles-couple]
+ensembles-couple-01.png  <-  romance_gothique_aux_bijoux_de_lune.png  |  Ensemble Lune Jumelle  |  Pierre de lune
+ensembles-couple-02.png  <-  couple_gothique_aux_bijoux_infinis_assortis.png  |  Ensemble Infini  |  Labradorite
+ensembles-couple-03.png  <-  couple_gothique_aux_bijoux_lunaires.png  |  Ensemble Lunaire  |  Pierre de lune
+ensembles-couple-04.png  <-  étreinte_gothique_aux_cœurs_de_grenat.png  |  Ensemble Cœur de Grenat  |  Grenat
+ensembles-couple-05.png  <-  portrait_gothique_romantique_aux_bijoux_assortis.png  |  Ensemble Sombre Harmonie  |  Quartz fumé
+ensembles-couple-06.png  <-  portrait_gothique_romantique_aux_bijoux_en_quartz.png  |  Ensemble Quartz Lié  |  Quartz rose
+ensembles-couple-07.png  <-  portrait_gothique_aux_améthystes_assorties.png  |  Ensemble Améthyste Miroir  |  Améthyste
+ensembles-couple-08.png  <-  romance_gothique_aux_bijoux_d_obsidienne.png  |  Ensemble Obsidienne Liée  |  Obsidienne
+ensembles-couple-09.png  <-  romance_gothique_aux_yeux_de_tigre.png  |  Ensemble Regard de Tigre  |  Œil de tigre
+ensembles-couple-10.png  <-  portrait_gothique_romantique_aux_grenats.png  |  Ensemble Grenat Royal  |  Grenat
+
+[bijoux-corps]
+bijoux-corps-01.png  <-  portrait_gothique_au_collier_labradorite.png  |  Bijou de corps Noctis  |  Labradorite
+bijoux-corps-02.png  <-  portrait_gothique_au_collier_macramé.png  |  Bijou de corps Tressalia  |  Améthyste
+bijoux-corps-03.png  <-  portrait_gothique_au_collier_macramé_noir.png  |  Bijou de corps Umbra  |  Onyx
+bijoux-corps-04.png  <-  portrait_gothique_au_collier_de_quartz_fumé.png  |  Bijou de corps Fumée  |  Quartz fumé
+bijoux-corps-05.png  <-  portrait_gothique_à_la_lueur_des_bougies.png  |  Bijou de corps Chandelle  |  Grenat
+bijoux-corps-06.png  <-  portrait_gothique_au_clair_de_lune.png  |  Bijou de corps Clair de Lune  |  Pierre de lune
+bijoux-corps-07.png  <-  portrait_gothique_aux_bijoux_en_labradorite.png  |  Bijou de corps Orbis  |  Labradorite
+bijoux-corps-08.png  <-  portrait_gothique_aux_bijoux_constellation_céleste.png  |  Bijou de corps Constellation  |  Labradorite
+bijoux-corps-09.png  <-  portrait_gothique_aux_bijoux_scarabée.png  |  Bijou de corps Scarabée  |  Onyx
+bijoux-corps-10.png  <-  portrait_gothique_aux_bijoux_obsidienne_et_bronze.png  |  Bijou de corps Nox  |  Obsidienne
